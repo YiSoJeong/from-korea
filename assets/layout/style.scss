@@ -1,0 +1,7 @@
+@import "../shared/mixin.scss";
+@import "../shared/variables.scss";
+@import "../shared/footer.scss";
+@import "../shared/header.scss";
+
+@include header;
+@include footer;
